@@ -1,4 +1,4 @@
-# Digit Draw & Recognize
+# Digit Draw
 
 A simple Python application that lets you draw handwritten digits in a desktop GUI and uses a convolutional neural network (CNN) to recognize them.
 
@@ -19,7 +19,7 @@ digitDraw/
 ### 1. Clone the repo
 
 ```bash
-git clone <your-repo-url>
+git clone https://github.com/mikhail-singh/digitDraw.git
 cd digitDraw
 ```
 
