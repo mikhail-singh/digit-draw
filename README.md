@@ -20,7 +20,7 @@ digitDraw/
 
 ```bash
 git clone https://github.com/mikhail-singh/digitDraw.git
-cd digitDraw
+cd digit-draw
 ```
 
 ### 2. Install dependencies
