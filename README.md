@@ -1,6 +1,6 @@
 # Digit Draw
 
-A simple Python application that lets you draw handwritten digits in a desktop GUI and uses a convolutional neural network (CNN) to recognize them.
+A simple Python application that lets you draw handwritten digits in a desktop GUI and uses a convolutional neural network (CNN) to recognise them.
 
 ## Project Structure
 
