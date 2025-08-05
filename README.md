@@ -9,7 +9,7 @@ digitDraw/
 ├── model.py         # CNN model definition
 ├── train.py         # Training script (produces model.pt)
 ├── canvas_ui.py     # Tkinter-based drawing GUI component
-├── app.py       # Launches the GUI
+├── app.py           # Launches the GUI
 ├── model.pt         # Saved trained weights (auto-generated)
 └── data/            # MNIST dataset (auto-downloaded)
 ```
